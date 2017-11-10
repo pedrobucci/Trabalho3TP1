@@ -1,0 +1,83 @@
+# depslib dependency file v1.0
+1510286521 source:d:\tp1_t3\main.cpp
+	<iostream>
+	"Banco_de_dados.h"
+	"interfaces.h"
+	"logicadenegocios.h"
+	"controladoras.h"
+
+1510288186 d:\tp1_t3\includes\interfaces.h
+	"resultado.h"
+	"dominios.h"
+	"entidades.h"
+
+1510282870 d:\tp1_t3\includes\resultado.h
+	"dominios.h"
+	"entidades.h"
+	<string>
+
+1509218105 d:\tp1_t3\includes\dominios.h
+	<string>
+
+1509211559 d:\tp1_t3\includes\entidades.h
+	"dominios.h"
+
+1508879307 d:\tp1_t3\includes\stubs.h
+	"Interfaces.h"
+	"resultado.h"
+	<iostream>
+
+1510284839 d:\tp1_t3\includes\controladoras.h
+	"interfaces.h"
+
+1509931843 source:d:\tp1_t3\src\comandos.cpp
+	<string>
+	"comandos.h"
+
+1509136124 d:\tp1_t3\includes\comandos.h
+	"interfaces.h"
+	"dominios.h"
+	"entidades.h"
+	<stdexcept>
+	<iostream>
+	<cstdlib>
+
+1510276489 source:d:\tp1_t3\src\controladoras.cpp
+	<iostream>
+	<string>
+	"controladoras.h"
+	"dominios.h"
+	"comandos.h"
+	"entidades.h"
+
+1509218812 source:d:\tp1_t3\src\dominios.cpp
+	<iostream>
+	"dominios.h"
+
+1509219820 source:d:\tp1_t3\src\entidades.cpp
+	"iostream"
+	"entidades.h"
+
+1508138369 source:d:\tp1_t3\src\stubs.cpp
+	"stubs.h"
+
+1510288186 source:d:\tp1_t3\src\logicadenegocios.cpp
+	"logicadenegocios.h"
+
+1510284997 d:\tp1_t3\includes\logicadenegocios.h
+	<iostream>
+	"Banco_de_dados.h"
+	"interfaces.h"
+
+1508886361 d:\tp1_t3\include\banco_de_dados.h
+
+1510288466 d:\tp1_t3\includes\banco_de_dados.h
+	<vector>
+	"entidades.h"
+	"resultado.h"
+	"interfaces.h"
+
+1510288186 source:d:\tp1_t3\src\banco_de_dados.cpp
+	<iostream>
+	"Banco_de_dados.h"
+
